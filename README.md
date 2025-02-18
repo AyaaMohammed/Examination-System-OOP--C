@@ -1,4 +1,3 @@
-# Examination-System-OOP--C
 # Examination System (OOP)
 
 This **Examination System** is developed using **Object-Oriented Programming (OOP)** principles in C#. It is designed to manage different types of exams like **Practice Exam** and **Final Exam**. The system provides various functionalities including question management, exam modes, timers, notifications, user login, and subject management.
@@ -58,8 +57,7 @@ This **Examination System** is developed using **Object-Oriented Programming (OO
      - Countdown will be visible during the exam.
      - The system will stop the exam automatically if the timer reaches zero.
 
-### 2. **Practice Exam Timer**:
-     - The **Practice Exam** does **not include a timer**. 
+### 2. **Practice Exam Timer**:    
      - Students can take the exam at their own pace without a time limit.
 
 ## Getting Started
