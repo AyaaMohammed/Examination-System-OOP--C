@@ -1,0 +1,64 @@
+Select True or False : (Degree: 1 Points)
+1 - Multiple inheritance is different from multiple levels of inheritance.
+A- True 
+B- False 
+Answer: True
+Select True or False : (Degree: 1 Points)
+2 - We can derive a class from a base class even if the base class's source code is not available.
+A- True 
+B- False 
+Answer: True
+Select One Option Only. (Degree: 1 Points)
+3 - A derived class can stop virtual inheritance by declaring an override as
+A- inherits
+B- not inheritable
+C- sealed
+D- extends
+Answer: C
+Select One Option Only. (Degree: 1 Points)
+4 - Which of the following statements is valid about advantages of generics?
+A- Generics require use of explicit type casting.
+B- Generics provide type safety without the overhead of multiple implementations.
+C- Generics eliminate the possibility of run-time errors.
+D- None of the above.
+Answer: B
+Choose any applicable choices. (Degree: 1 Points)
+5 - Which of the following statements are correct about constructors in C#.NET?
+A- Constructors cannot be overloaded.
+B- Constructors always have the name same as the name of the class.
+C- Constructors are never called explicitly.
+D- Constructors never return any value.
+Answer: B,C,D
+Choose any applicable choices. (Degree: 1 Points)
+6 - Which of the following are value types?
+A- Integer
+B- Long
+C- String
+D- Array
+Answer: A,B
+Select True or False : (Degree: 1 Points)
+7 - The size of a derived class object is equal to the sum of sizes of data members in base class only.
+A- True 
+B- False 
+Answer: False
+Select One Option Only. (Degree: 1 Points)
+8 - Choose the wrong statement about structures in C#.NET?
+A- Structures can be declared within a procedure
+B- Structures can implement an interface but they cannot inherit from another structure
+C- Structure members cannot be declared as protected
+D- A structure cannot be empty
+Answer: C
+Select One Option Only. (Degree: 1 Points)
+9 - Select the wrong statements among the following?
+A- A structure can contain properties
+B- A structure can contain constructors
+C- A structure can contain protected data members
+D- A structure can contain constants
+Answer: C
+Select One Option Only. (Degree: 1 Points)
+10 - Which of these classes contains only floating point functions?
+A- Math
+B- Process
+C- System
+D- Object
+Answer: A
