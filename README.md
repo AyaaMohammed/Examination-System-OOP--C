@@ -58,7 +58,7 @@ This **Examination System** is developed using **Object-Oriented Programming (OO
      - The system will stop the exam automatically if the timer reaches zero.
 
 ### 2. **Practice Exam Timer**:    
-     - Students can take the exam at their own pace without a time limit.
+   - Students can take the exam at their own pace without a time limit.    
 
 ## Getting Started
 
